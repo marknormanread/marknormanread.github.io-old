@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+## Dr. Mark Read
+
+I'm exploring this as a possible website hosting service. My current website can be found at markread.info. 
+
+### Publications
+
+
+
+### Below this is testing...
 
 You can use the [editor on GitHub](https://github.com/marknormanread/marknormanread.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
