@@ -1,3 +1,6 @@
+layout: page
+title: Publications
+
 ## 2019
 
 _Chiara Anna Maria Fois, Thi Yen Loan Le, Aaron Schindeler, Sina Naficy, Dale David McClure, **Mark Norman Read**, Peter Valtchev, Ali Khademhosseini, Fariba Dehghani._

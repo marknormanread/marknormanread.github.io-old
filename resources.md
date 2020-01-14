@@ -1,4 +1,5 @@
-# Resources and tools
+layout: page
+title: Resources and tools
 
 This page contains links to software, tools, or websites relating to my work.
 
