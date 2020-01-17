@@ -4,8 +4,11 @@
 
 [Resources](https://marknormanread.github.io/resources)
 
-## Other
+[My University of Sydney Website](https://sydney.edu.au/engineering/about/our-people/academic-staff/mark-read.html)
 
-I'm exploring this as a possible website hosting service. My current website can be found at markread.info. 
+[Google scholar profile](https://scholar.google.co.uk/citations?user=WfvA3zIAAAAJ&hl=en&authuser=1)
 
-hello. 
+## About me
+
+I am a Lecturer in Biomedical Computation at the University of Sydney, in the School of Computer Science. 
+
