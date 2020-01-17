@@ -1,5 +1,7 @@
-layout: page
-title: Publications
+---
+layout: default
+---
+
 
 ## 2019
 
