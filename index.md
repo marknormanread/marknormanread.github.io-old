@@ -8,6 +8,8 @@
 
 [Google scholar profile](https://scholar.google.co.uk/citations?user=WfvA3zIAAAAJ&hl=en&authuser=1)
 
+[My CV](cv/MarkRead_CV.pdf)
+
 
 ## About me
 
