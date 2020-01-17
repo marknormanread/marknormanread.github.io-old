@@ -23,5 +23,7 @@ I was awarded my PhD in 2012 by the University of York, UK, for work advancing t
 ## Wisdom 
 
 “An expert is a man who has made all the mistakes which can be made.” – Niels Bohr
+
 “If we knew what it was we were doing, it wouldn’t be called ‘research’, would it?” – Albert Einstein
+
 “Now, like all my great plans, my strategy is so simple an idiot could have devised it.” – Zapp Brannigan
