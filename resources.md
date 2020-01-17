@@ -1,5 +1,7 @@
-layout: page
-title: Resources and tools
+---
+layout: default
+---
+
 
 This page contains links to software, tools, or websites relating to my work.
 
