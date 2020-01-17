@@ -1,6 +1,7 @@
 ## Navigation
 
 [Publications](https://marknormanread.github.io/publications)
+
 [Resources](https://marknormanread.github.io/resources)
 
 ## Other
