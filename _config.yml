@@ -1,1 +1,18 @@
-theme: jekyll-theme-cayman
+remote_theme: cristianezeani/panthera-jekyll
+
+title: Dr. Mark Read
+substitle: Lecturer in Biomedical Computation
+
+menu:
+  - text: Home
+    link: /
+    icon: ""
+
+  - text: Publications
+    link: /publications
+    icon: ""
+
+  - text: Resources
+    link: /resources
+    icon: ""
+
