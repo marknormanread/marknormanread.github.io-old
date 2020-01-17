@@ -1,6 +1,6 @@
 title: Dr Mark N Read
 logo: MarkRead_small.JPG
 description: Lecturer in Biomedical Computation
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
